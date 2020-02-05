@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <title>Cats!</title>
-<style>
+<!--<style>
     td,th { border: 1px solid #ccc; }
     table { border: 1px solid black; }
-</style>
+</style>-->
   </head>
 
 <body>
@@ -24,10 +24,10 @@
   <h3>Cool House Cats</h3>
 
    <img src="flynn.jpg" alt="flynn">
-    <p>Flynn:<em> Happy kitty, sleepy kitty.</em></p>
+    <strong>Flynn:</strong><em> Happy kitty, sleepy kitty.</em>
 
    <img src="quorra.jpg" alt="Quorra">
-    <p>Quorra:<em> Mii-ow Fit.</em></p>
+    <strong>Quorra:</strong><em> Mii-ow Fit.</em>
 
   <h3>Cat Shopping List</h3>
 
