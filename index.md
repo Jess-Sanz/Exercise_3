@@ -25,6 +25,7 @@
 
    <img src="flynn.jpg" alt="flynn">
     <strong>Flynn:</strong><em> Happy kitty, sleepy kitty.</em>
+    
 
    <img src="quorra.jpg" alt="Quorra">
     <strong>Quorra:</strong><em> Mii-ow Fit.</em>
