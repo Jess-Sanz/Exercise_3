@@ -23,11 +23,11 @@
 
   <h3>Cool House Cats</h3>
 
-    <img src="flynn.jpg" alt="flynn">
-    <p><b>Flynn:</b><em> Happy kitty, sleepy kitty.</em></p>
+   <img src="flynn.jpg" alt="flynn">
+    <p>Flynn:<em> Happy kitty, sleepy kitty.</em></p>
 
-    <img src="quorra.jpg" alt="Quorra">
-    <p><b>Quorra:</b><em> Mii-ow Fit.</em></p>
+   <img src="quorra.jpg" alt="Quorra">
+    <p>Quorra:<em> Mii-ow Fit.</em></p>
 
   <h3>Cat Shopping List</h3>
 
