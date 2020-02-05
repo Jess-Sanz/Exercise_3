@@ -1,13 +1,13 @@
-<!--<!DOCTYPE html>-->
+<!--<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
     <title>Cats!</title>
-<!--<style>
+<style>
     td,th { border: 1px solid #ccc; }
     table { border: 1px solid black; }
-</style>-->
-  </head>
+</style>
+  </head>-->
 
 <body>
   <h1>Cats</h1>
